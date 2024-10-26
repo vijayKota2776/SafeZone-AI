@@ -1,0 +1,19 @@
+{
+    "name": "safezone_ai",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      "axios": "^0.21.1",
+      "react": "17.0.1",
+      "react-native": "0.64.2",
+      "react-native-battery-manager": "^1.0.0"
+    },
+    "scripts": {
+      "start": "react-native start",
+      "android": "react-native run-android",
+      "ios": "react-native run-ios"
+    },
+    "eslintConfig": {
+      "extends": "react-app"
+    }
+  }
