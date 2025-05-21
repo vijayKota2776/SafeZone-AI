@@ -88,7 +88,7 @@ Here’s a simplified flowchart illustrating the process:<br>
 |  3-Minute Timeout?         |<br>
 |   (User does not respond)   |<br>
 +----------------------------+<br>
-       /       \<br>
+       /       \ <br>
      Yes        No<br>
       |          |<br>
       v          |<br>
